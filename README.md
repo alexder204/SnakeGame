@@ -28,8 +28,8 @@ If you hit the walls or yourself — game over!
 ## 🚀 How to Play Locally
 1. Clone or download this repository.
 2. Make sure the following files are in the same folder:
-   - `index.html`
+   - `snake.html`
    - `style.css`
    - `gamelogic.js`
    - `banana.png` (food icon)
-3. Open `index.html` in your web browser.
+3. Open `snake.html` in your web browser.
